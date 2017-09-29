@@ -8,7 +8,7 @@ Web Application Development
 (Month Day, Year)
 
 ## Student Name:  
-(First and Last Name)
+( and Last Name)
 
 ## Project Description:
 (In your own words, briefly describe the assignment.)
